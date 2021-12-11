@@ -1,0 +1,5 @@
+{
+	"name":"sandi",
+	"age":"17",
+	"address":"purwakarta"
+}
